@@ -4,7 +4,7 @@
 This project involved analyzing marketing campaign data from **Facebook Ads** and **Google Ads** to consolidate metrics, generate insights, and visualize campaign performance.
 
 ## 📈 Objectives
-- Merge data from multiple tables (`facebook_ads_basic_daily`, `facebook_adset`, `facebook_campaign`, `google_ads_basic_daily`) using SQL (`LEFT JOIN`, `UNION ALL`, `CTE`).
+- Merge data from multiple tables (`facebook_ads_basic_daily`, `facebook_adset`, `facebook_campaign`, `google_ads_basic_daily`) using SQL.
 - Calculate key marketing KPIs: Total Ad Spend, Impressions, Clicks, Conversion Value, CPC, CPM, CTR, ROMI.
 - Build an interactive dashboard in **Google Looker Studio** for business analysis.
 
